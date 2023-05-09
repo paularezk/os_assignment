@@ -23,7 +23,7 @@ Here are some screenshots of the app in action:
 
 ![Screenshot](/assets/Screenshot%202023-05-10%20015657.png)
 
-![Screenshot 2](/assets/Screenshot 2023-05-10 015810.png)
+![Screenshot](/assets/Screenshot%202023-05-10%20015810.png)
 
 ## License
 
