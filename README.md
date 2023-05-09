@@ -21,7 +21,7 @@ If there is no deadlock, the app will display an animation of the safe sequence 
 
 Here are some screenshots of the app in action:
 
-![Screenshot 1](/assets/Screenshot 2023-05-10 015657.png)
+![Screenshot](/assets/Screenshot%202023-05-10%20015657.png)
 
 ![Screenshot 2](/assets/Screenshot 2023-05-10 015810.png)
 
