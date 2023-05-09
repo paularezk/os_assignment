@@ -10,6 +10,15 @@ Here are some screenshots of the app:
 
 ![Screenshot 2](/assets/Screenshot%202023-05-10%20015810.png)
 
+## Installation
+
+If you want to install or use this app, you can find the installation files in the following directories:
+
+- For Windows users: `assets/Windows Build/`
+- For Android users: `assets/Android Build.apk/`
+
+Simply download the appropriate file for your platform and follow the instructions to install the app. If you encounter any issues, please let us know.
+
 ## Usage
 
 To use this app, you will need to enter the following information:
