@@ -1,34 +1,35 @@
-# Banker Algorithm App using Flutter
+# Banker Algorithm in Flutter
 
-This is a Flutter app that implements the Banker's algorithm, a deadlock avoidance algorithm used in operating systems. The app takes in user input for maximum resource allocation, current resource allocation, and resource availability, and then outputs whether or not there is a deadlock. If there is no deadlock, the app also animates the output.
-
-## Installation
-
-To install the app, clone the repository from GitHub and open it in your preferred IDE for Flutter development. Then, run the following command in your terminal:
-
-flutter run
-
-
-Make sure you have the Flutter SDK installed on your machine before attempting to run the app.
-
-## Usage
-
-To use the app, enter the maximum resource allocation, current resource allocation, and resource availability for each process in the designated fields. Then, click the "Check for Deadlock" button to see if there is a deadlock.
-
-If there is no deadlock, the app will display an animation of the safe sequence of processes.
+This is a Flutter project that implements the Banker Algorithm. The Banker Algorithm is an algorithm used in Operating Systems to avoid deadlocks. The algorithm works by checking if granting a request for resources will leave the system in a safe state, i.e., a state where no deadlocks will occur.
 
 ## Screenshots
 
-Here are some screenshots of the app in action:
+Here are some screenshots of the app:
 
-![Screenshot](/assets/Screenshot%202023-05-10%20015657.png)
+![Screenshot 1](/assets/Screenshot%202023-05-10%20015657.png)
 
-![Screenshot](/assets/Screenshot%202023-05-10%20015810.png)
+![Screenshot 2](/assets/Screenshot%202023-05-10%20015810.png)
+
+## Usage
+
+To use this app, you will need to enter the following information:
+
+- Max resources: The maximum amount of each resource that the system can allocate.
+- Allocation: The amount of each resource that is currently allocated to each process.
+- Available resources: The amount of each resource that is currently available to the system.
+
+Once you have entered this information, the app will tell you if there is a deadlock or not. If there is no deadlock, the app will animate the output using a loading bar that is split to the number of processes.
+
+## Contributing
+
+Contributions to this project are welcome. To contribute, please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Open a pull request to the original repository.
 
 ## License
 
-This app is licensed under the MIT License. See the [LICENSE](/LICENSE) file for more information.
-
-## Credits
-
-This app was developed by [Your Name Here] as a project for [Your Course/Program Name Here]. Special thanks to [Name of Professor/Instructor] for their guidance and support.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
