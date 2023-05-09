@@ -30,6 +30,10 @@ Contributions to this project are welcome. To contribute, please follow these st
 4. Push your changes to your forked repository.
 5. Open a pull request to the original repository.
 
+## Made by ChatGPT
+
+This project was made by ChatGPT, a friendly AI language model trained by OpenAI. Please don't hesitate to ask me if you have any questions or suggestions!
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
